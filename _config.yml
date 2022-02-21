@@ -5,3 +5,4 @@ baseurl: ""
 url: "https://github.io/richardchen89/portfolio"
 timezone: Australia/Sydney
 port: 3000
+theme: jekyll-theme-minimal
