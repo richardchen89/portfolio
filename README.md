@@ -1,2 +1,2 @@
-# portfolio
-Product Design portfolio
+# Portfolio
+My product Design portfolio
